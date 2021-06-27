@@ -8,21 +8,24 @@
 > ・システム設計：情報システムの典 型的な形態であるWEBシステムの基本的な構造と，その設計の手法・技術を理解し，演習問題に対して適用できるようになる．
 > ・実装：WEBシス テムの基本的な実装手法・技術を理解し，演習問題に対して適用できるようになる．
  
-<img src="https://user-images.githubusercontent.com/66343258/123548289-237b7f00-d79f-11eb-8861-be8cb08c8af8.png" alt="商品一覧画面" width="200" height="200"><br>
+<img src="https://user-images.githubusercontent.com/66343258/123548289-237b7f00-d79f-11eb-8861-be8cb08c8af8.png" alt="商品一覧画面" width="200"><br>
 商品一覧画面<br>
-<img src="https://user-images.githubusercontent.com/66343258/123548277-165e9000-d79f-11eb-80f6-50cef487baa8.png" alt="商品詳細画面" width="200" height="200"><br>
+
+<img src="https://user-images.githubusercontent.com/66343258/123548277-165e9000-d79f-11eb-80f6-50cef487baa8.png" alt="商品詳細画面" width="200"><br>
 商品詳細画面<br>
-<img src="https://user-images.githubusercontent.com/66343258/123548307-38581280-d79f-11eb-92c3-0b7f8aa41d04.png" alt="購入内容確認画面" width="200" height="200"><br>
+
+<img src="https://user-images.githubusercontent.com/66343258/123548307-38581280-d79f-11eb-92c3-0b7f8aa41d04.png" alt="購入内容確認画面" width="200"><br>
 購入内容確認画面<br>
-<img src="https://user-images.githubusercontent.com/66343258/123548354-6f2e2880-d79f-11eb-99d5-8b8b4d115b04.png" alt="購入履歴確認画面(認証)" width="200" height="200"><br>
+
+<img src="https://user-images.githubusercontent.com/66343258/123548354-6f2e2880-d79f-11eb-99d5-8b8b4d115b04.png" alt="購入履歴確認画面(認証)" width="200"><br>
+
 購入履歴確認画面(認証)<br>
-<img src="https://user-images.githubusercontent.com/66343258/123548347-60477600-d79f-11eb-972b-8e410abe4733.png" alt="購入履歴確認画面" width="200" height="200"><br>
+<img src="https://user-images.githubusercontent.com/66343258/123548347-60477600-d79f-11eb-972b-8e410abe4733.png" alt="購入履歴確認画面" width="200"><br>
 購入履歴確認画面<br>
-<img src="https://user-images.githubusercontent.com/66343258/123548326-4c9c0f80-d79f-11eb-833e-a130ff5664df.png" alt="ユーザー登録画面" width="200" height="200"><br>
+
+<img src="https://user-images.githubusercontent.com/66343258/123548326-4c9c0f80-d79f-11eb-833e-a130ff5664df.png" alt="ユーザー登録画面" width="200"><br>
 ユーザー登録画面
 
-| 項目 | 実施内容 |
-----|---- 
 | 対象顧客層 | 肉体労働をしている２０〜３０代の男性 |
 | 主要販売商品 | 男性向けの作業着 |
 | 典型的な購買シーン | 欲しいものがあらかじめ決まっており、その商品だけを買う（普通のファッションサイトはとりあえず見てみて、気に入ったら買うということが多い） |
